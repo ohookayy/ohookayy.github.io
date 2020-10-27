@@ -1,0 +1,16 @@
+{
+  "name": "PWA-1",
+  "short_name": "PWA1",
+  "description": "Testing PWA",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#00897B",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
